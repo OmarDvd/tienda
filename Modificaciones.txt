@@ -1,0 +1,10 @@
+
+MODIFICACIONES
+
+- funcion comprobar acceso
+
+- funcion de carrito incial para usarlo getCarrito
+
+- sumauno y restaruno modificar a sumar unidades le metemos id y unidades
+
+- cerrar sesion que avise si quiere que sea asi
