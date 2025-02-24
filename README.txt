@@ -2,12 +2,12 @@
 
 									Acceso a la aplicación:
 
-https://omardvd.github.io/tienda_omar/
+https://omardvd.github.io/tienda
 
 
 									Acceso al repositorio:
 
-https://github.com/OmarDvd/tienda_omar
+https://github.com/OmarDvd/tienda
 
 
 
